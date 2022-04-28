@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here i add my fav habits:
+- Reading
+- writing
+- Workouts
